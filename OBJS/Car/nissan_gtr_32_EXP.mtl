@@ -1,0 +1,12 @@
+# Blender 5.0.1 MTL File: 'nissan_gtr_32_EXP.blend'
+# www.blender.org
+
+newmtl CarPaint_Atlas
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Main_Atlas.png
+map_Ns textures/Roughness_Atlas.png
